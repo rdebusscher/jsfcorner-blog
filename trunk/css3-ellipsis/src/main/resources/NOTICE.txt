@@ -1,0 +1,6 @@
+Comparison of CSS3 ellipsis functionality on the client and the server side.
+Copyright 2012 Rudy De Busscher
+
+------------------------------------------------------------------------
+See the file LICENSE.txt
+------------------------------------------------------------------------
