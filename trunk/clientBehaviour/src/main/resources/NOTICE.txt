@@ -1,0 +1,6 @@
+Tutorial for Client Side behaviour
+Copyright 2013 Rudy De Busscher
+
+------------------------------------------------------------------------
+See the file LICENSE.txt
+------------------------------------------------------------------------
