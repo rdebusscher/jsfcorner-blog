@@ -1,0 +1,1 @@
+Contains the source code of the blog items on JSFCorner blog
